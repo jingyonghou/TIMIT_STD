@@ -1,6 +1,6 @@
 # we ingnore all the file at first
 /*
-****************
+**
 # Reserve some general file
 !.gitignore
 !*.md
