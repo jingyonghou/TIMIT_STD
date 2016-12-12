@@ -9,9 +9,9 @@ All the code is about STD under TIMIT data set, including several different vers
      phone boundary based partial STD code using C++
 * DownSampling_STD 
     phone boundary based feature reduction using several different downsampling methods, including:
-    ** median
-    ** mean
-    ** uniform
-    ** uniform mean
+    1) median \\
+    2) mean \\ 
+    3) uniform \\
+    4) uniform mean \\
 * Encode_STD_v2
     using BLSTM encoder based feature to do STD, also supporting above downsampling options.
